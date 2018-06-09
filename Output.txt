@@ -1,0 +1,155 @@
+**********************************************************
+Enter no. of intervals:
+1
+X       Y
+0       0
+2       8
+We use Trapezoidal rule
+Resultant approximation 8.000000
+Press 1 to exit
+Press any other integer to continue
+2
+**********************************************************
+Enter no. of intervals:
+2
+X       Y
+0       0
+1       1
+2       8
+Press 1:for Simpsons
+Press 2:for trapezoidal
+1
+Resultant approximation 4.000000
+Press 1 to exit
+Press any other integer to continue
+2
+**********************************************************
+Enter no. of intervals:
+2
+X       Y
+0       0
+1       1
+2       8
+Press 1:for Simpsons
+Press 2:for trapezoidal
+2
+Resultant approximation 5.000000
+Press 1 to exit
+Press any other integer to continue
+3
+**********************************************************
+Enter no. of intervals:
+3
+X       Y
+0       0
+0.667   0.296
+1.33    2.37
+2       8
+We use Trapezoidal rule
+Resultant approximation 4.444444
+Press 1 to exit
+Press any other integer to continue
+4
+**********************************************************
+Enter no. of intervals:
+4
+X       Y
+0       0
+0.5     0.125
+1       1
+1.5     3.38
+2       8
+Press 1:for Simpsons
+Press 2:for trapezoidal
+1
+Resultant approximation 4.000000
+Press 1 to exit
+Press any other integer to continue
+4
+**********************************************************
+Enter no. of intervals:
+4
+X       Y
+0       0
+0.5     0.125
+1       1
+1.5     3.38
+2       8
+Press 1:for Simpsons
+Press 2:for trapezoidal
+2
+Resultant approximation 4.250000
+Press 1 to exit
+Press any other integer to continue
+5
+**********************************************************
+Enter no. of intervals:
+5
+X       Y
+0       0
+0.4     0.064
+0.8     0.512
+1.2     1.73
+1.6     4.1
+2       8
+We use Trapezoidal rule
+Resultant approximation 4.160000
+Press 1 to exit
+Press any other integer to continue
+6
+**********************************************************
+Enter no. of intervals:
+6
+X       Y
+0       0
+0.333   0.037
+0.667   0.296
+1       1
+1.33    2.37
+1.67    4.63
+2       8
+Press 1: for Weddle's rule
+Press 2:for Simpson's rule
+Press 3:for trapezoidal rule
+1
+Resultant approximation 4.000000
+Press 1 to exit
+Press any other integer to continue
+6
+**********************************************************
+Enter no. of intervals:
+6
+X       Y
+0       0
+0.333   0.037
+0.667   0.296
+1       1
+1.33    2.37
+1.67    4.63
+2       8
+Press 1: for Weddle's rule
+Press 2:for Simpson's rule
+Press 3:for trapezoidal rule
+2
+Resultant approximation 4.000000
+Press 1 to exit
+Press any other integer to continue
+6
+**********************************************************
+Enter no. of intervals:
+3
+X       Y
+0       0
+0.667   0.296
+1.33    2.37
+2       8
+We use Trapezoidal rule
+Resultant approximation 4.444444
+Press 1 to exit
+Press any other integer to continue
+1
+**********************************************************
+
+--------------------------------
+Process exited after 70.96 seconds with return value 0
+Press any key to continue . . .
